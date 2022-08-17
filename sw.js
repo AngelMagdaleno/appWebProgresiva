@@ -3,10 +3,10 @@
 const CACHE_NAME = 'app-Gatos';
   urlsToCache = [
     './',
-    '/gatos.css',
-    '/script.js',
-    '/img/favicon.png',
-    '/index.html',
+    './gatos.css',
+    './script.js',
+    './img/favicon.png',
+    './index.html',
   ];
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
