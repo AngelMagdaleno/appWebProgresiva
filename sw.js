@@ -1,5 +1,5 @@
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'app-Gatos';
+const CACHE_NAME = 'static_cache_v1';
   urlsToCache = [
     './',
     './gatos.css',
